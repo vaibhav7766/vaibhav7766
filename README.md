@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav7766" alt="vaibhav7766" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MLOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaibhav7766](https://github.com/vaibhav7766)
 
