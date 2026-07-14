@@ -154,9 +154,9 @@ fun_fact: "I debug neural networks by day and chess strategies by night ♟️"
 
 <div align="center">
 <a href="https://github.com/vaibhav7766">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhav7766&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" alt="Vaibhav's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vaibhav7766&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" alt="Vaibhav's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7766&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vaibhav7766&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" alt="Top Languages"/>
 </a>
 </div>
 
@@ -176,7 +176,7 @@ fun_fact: "I debug neural networks by day and chess strategies by night ♟️"
 
 <!-- TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav7766&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy-rho.vercel.app/?username=vaibhav7766&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 </div>
 
 <br/>
