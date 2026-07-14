@@ -153,16 +153,6 @@ fun_fact: "I debug neural networks by day and chess strategies by night ♟️"
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-<a href="https://github.com/vaibhav7766">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vaibhav7766&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" alt="Vaibhav's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vaibhav7766&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" alt="Top Languages"/>
-</a>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=vaibhav7766&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </div>
 
@@ -170,13 +160,6 @@ fun_fact: "I debug neural networks by day and chess strategies by night ♟️"
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav7766&bg_color=0d1117&color=6e40c9&line=6e40c9&point=e6edf3&area=true&area_color=6e40c9&hide_border=true" alt="Contribution Graph" width="95%"/>
-</div>
-
-<br/>
-
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy-rho.vercel.app/?username=vaibhav7766&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 </div>
 
 <br/>
