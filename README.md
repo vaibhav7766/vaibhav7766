@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Vaibhav%20Sharma&fontSize=50&fontColor=e6edf3&fontAlignY=35&desc=AI%20/%20ML%20Engineer%20•%20Researcher%20•%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+intelligent+systems+that+matter+🧠;3+Patents+Filed+·+IEEE+Published+📝;From+Neural+Nets+to+Production+Pipelines+🚀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&random=false&width=600&height=35&lines=Building+intelligent+systems+that+matter;3+Patents+Filed+%C2%B7+IEEE+Published;From+Neural+Nets+to+Production+Pipelines" alt="Typing SVG" /></a>
 
 <br/>
 
